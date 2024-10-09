@@ -1,0 +1,4 @@
+Read Me 
+
+
+I'm a first year BE-CS student in CHITKARA UNIVERSITY, PUNJAB and this is my first ever Hackathon project in first year Sem 1, I joined this Hackathon organized by HACKINDIA  with my friend [Jayaditya Nagpal](https://www.linkedin.com/in/jayaditya-nagpal-475426324/), and what a ride it was! Overwhelming at times, but incredibly fun and rewarding. Learned so much from the challenges, and pushed my problem-solving skills to the limit. We had [Stephen SIMON](https://www.linkedin.com/in/codewithsimon/) {the rd of C# corner} at the event and oh boi it was funn! looking forward to new opportunities!!
